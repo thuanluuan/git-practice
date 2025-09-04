@@ -1,2 +1,3 @@
-Sở thích: Ăn 
-Kỹ năng: Ngủ 
+Họ và tên: Lưu An Thuận
+Sở thích: Đọc sách
+Kỹ năng: C++
