@@ -1,3 +1,3 @@
 Họ và tên: Lưu An Thuận
-Sở thích: Chơi thể thao và xem phim
+Sở thích: Đọc sách và chạy bộ; Chơi thể thao và xem phim
 Kỹ năng: C++
