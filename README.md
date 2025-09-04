@@ -1,3 +1,3 @@
-Đây là README được chỉnh sửa từ nhánh main.
+README – chỉnh sửa bởi A
 
-Giới thiệu: Tôi là Lưu An Thuận, MSSV: 220843.
+Đây là dòng 3 – cập nhật bởi A
